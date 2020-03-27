@@ -147,7 +147,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="dfdfdf.cpp" />
     <ClCompile Include="Lab2.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="dfdfdf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
