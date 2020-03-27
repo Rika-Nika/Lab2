@@ -5,7 +5,8 @@
 
 int main()
 {
-anastasia.b.pershina@gmail.com    //erererererer
+
+	std::printf("sdsdsdsd");
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
