@@ -149,6 +149,7 @@
   <ItemGroup>
     <ClCompile Include="dfdfdf.cpp" />
     <ClCompile Include="Lab2.cpp" />
+    <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="dfdfdf.h" />
