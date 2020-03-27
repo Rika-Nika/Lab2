@@ -5,8 +5,7 @@
 
 int main()
 {
-    std::cout << "Hello World!\n";
-    //erererererer
+anastasia.b.pershina@gmail.com    //erererererer
 }
 
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
