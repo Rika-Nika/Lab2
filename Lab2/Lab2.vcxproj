@@ -153,6 +153,7 @@
   <ItemGroup>
     <ClInclude Include="ArraySequence.hpp" />
     <ClInclude Include="dfdfdf.h" />
+    <ClInclude Include="DynamicArray.hpp" />
     <ClInclude Include="DynamicArray2.hpp" />
     <ClInclude Include="Optional.hpp" />
     <ClInclude Include="pch.h" />
