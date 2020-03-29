@@ -6,10 +6,13 @@
 #include "ArraySequence.hpp"
 #include <iostream>
 #include"DynamicArray.hpp"
+#include"DynamicArray2.hpp"
 
 int main()
 {
-	DynamicArray2<int>(30);
+
+	Sequence<int>* seq = new ArraySequence<int>(5);
+	Sequence<int>* seq2 = new ArraySequence<int>();
 	std::printf("sdsdsdsd");
 }
 
