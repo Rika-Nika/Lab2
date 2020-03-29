@@ -15,7 +15,7 @@ int main()
 	Sequence<int>* seq2 = new ArraySequence<int>();
 	std::printf("sdsdsdsd");
 }
-
+//https://prog-cpp.ru/category/cpp-posts/
 // Запуск программы: CTRL+F5 или меню "Отладка" > "Запуск без отладки"
 // Отладка программы: F5 или меню "Отладка" > "Запустить отладку"
 
