@@ -3,7 +3,7 @@
 #include "DynamicArray.hpp"
 
 template <class T>
-class ArraySequence : Sequence<T>
+class ArraySequence : public Sequence<T>
 {
 private:
 	DynamicArray2<T> items;

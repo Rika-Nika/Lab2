@@ -6,7 +6,7 @@
 #include "ArraySequence.hpp"
 #include <iostream>
 #include"DynamicArray.hpp"
-#include"DynamicArray2.hpp"
+//#include"DynamicArray2.hpp"
 
 int main()
 {
