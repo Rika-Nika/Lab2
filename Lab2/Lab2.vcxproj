@@ -147,12 +147,16 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="dfdfdf.cpp" />
     <ClCompile Include="Lab2.cpp" />
     <ClCompile Include="Vector.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <ClInclude Include="ArraySequence.hpp" />
     <ClInclude Include="dfdfdf.h" />
+    <ClInclude Include="DynamicArray2.hpp" />
+    <ClInclude Include="Optional.hpp" />
+    <ClInclude Include="pch.h" />
+    <ClInclude Include="Sequence.hpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -1,11 +1,15 @@
 ﻿// Lab2.cpp : Этот файл содержит функцию "main". Здесь начинается и заканчивается выполнение программы.
 //
 
+#include "pch.h"
+#include "Sequence.hpp"
+#include "ArraySequence.hpp"
 #include <iostream>
+#include"DynamicArray.hpp"
 
 int main()
 {
-
+	DynamicArray2<int>(30);
 	std::printf("sdsdsdsd");
 }
 
